@@ -1,3 +1,5 @@
+Feel free to edit and reupload this, just make sure to remove my signature from it if you do.
+
 This is an infomarker system where you can place environment text markers for players that are given the flag.
 
 Flag Needed to spawn a marker: M
