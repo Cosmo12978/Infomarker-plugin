@@ -4,10 +4,12 @@ This is an infomarker system where you can place environment text markers for pl
 
 To install: Move Infomarker folder into plugins then your done.
 
+Features
+-Flag Needed to spawn a marker: M
+-Command to Spawn /Infomarker  ( the only player that can edit a marker is the player that spawned it using this command )
+-A clean UI to edit infomarkers with ( press e on the marker base )
+-A text limiter so users cant make a marker with 200 characters
 
-Flag Needed to spawn a marker: M
-Command to Spawn /Infomarker  ( the only player that can edit a marker is the player that spawned it using this command )
-A nice UI is featured on the base of the marker ( use context menu to find it easy )
 
 
 
