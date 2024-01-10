@@ -64,7 +64,7 @@ local function markermenu( data )
     end
 
     ---- TXT ENTRY
-    local TextLimit = 5
+    local TextLimit = 60 ------ EDIT THIS TO CHANGE TEXT LIMIT
 
     local TextEntryPH = vgui.Create("DTextEntry", markercreationui)
     TextEntryPH:SetPos(65, 50)
