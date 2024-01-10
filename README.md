@@ -2,6 +2,9 @@ Feel free to edit and reupload this, just make sure to remove my signature from 
 
 This is an infomarker system where you can place environment text markers for players that are given the flag.
 
+To install: Move Infomarker folder into plugins then your done.
+
+
 Flag Needed to spawn a marker: M
 Command to Spawn /Infomarker  ( the only player that can edit a marker is the player that spawned it using this command )
 A nice UI is featured on the base of the marker ( use context menu to find it easy )
