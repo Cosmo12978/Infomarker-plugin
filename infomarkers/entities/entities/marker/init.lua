@@ -38,7 +38,7 @@ function ENT:Initialize()
     self:PhysicsInit(SOLID_VPHYSICS)
     self:SetMoveType(MOVETYPE_VPHYSICS)
     self:SetUseType(SIMPLE_USE)
-    self:SetRPText("PLZWORK")
+    self:SetRPText("EDIT ME")
     local phys = self:GetPhysicsObject()
     if IsValid(phys) then
         phys:EnableMotion(false)
