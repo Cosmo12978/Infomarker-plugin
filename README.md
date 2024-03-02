@@ -17,5 +17,3 @@ Features
 
 ![image](https://github.com/Cosmo12978/pluginhelp/assets/153873427/55e03de8-a2a6-484c-aef0-cfbc19398402)
 
-Video
-https://medal.tv/games/garrys-mod/clips/1Ok2DFz7LG4biu/d1337iIx8uUQ?invite=cr-MSxtcGosMTY0MzYzMDQxLA
